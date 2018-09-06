@@ -10,7 +10,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Jim is still god!"
+        android:text="Jim, Jim is King."
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:fontFamily="sans-serif" />
