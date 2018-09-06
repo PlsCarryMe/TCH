@@ -13,7 +13,6 @@
         android:text="Jim is still god!"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:fontFamily="sans-serif"
-        android:onClick="openActiveLessons"/>
+        android:fontFamily="sans-serif" />
 
 </RelativeLayout>
