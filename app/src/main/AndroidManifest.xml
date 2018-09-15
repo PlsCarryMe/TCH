@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:label="Tacoma Community House">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,9 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ActiveLessons"
-            android:label="TCH Spelling">
-
+        <activity
+            android:name=".ActiveLessons"
+            android:label="Spelling Lessons">
+        </activity>
+        <activity
+            android:name=".Variant_Spelling_Lesson"
+            android:label="Lesson Name Goes Here">
         </activity>
     </application>
 
